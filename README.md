@@ -1,4 +1,4 @@
-# Meta Server-Side Tracking for E-Commerce — Deep Research Report (September 2026)
+# Meta Server-Side Tracking for E-Commerce - Deep Research Report (September 2026)
 
 > **Project:** shopika.com.bd
 > **Research window:** August 31 – September 2026, against the **live** Meta developer documentation
@@ -541,4 +541,4 @@ All pages fetched from `developers.facebook.com` on **2026-08-31** (raw dumps ar
 | 9 | Graph API Reference v26.0 — Ads Dataset Event Coverage | `/docs/marketing-api/reference/ads-dataset-event-coverage` | v26.0 |
 | 10 | Dataset Quality API | `/documentation/ads-commerce/conversions-api/dataset-quality-api` | v26.0 |
 
-*End of research report — companion implementation: `Modules/MetaPixel` (see Appendix A).*
+*End of research report 
